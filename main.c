@@ -3,6 +3,8 @@
 int main() {
     char znak;
 
+    printf("Podaj znak ");
+
     znak = getchar();
 
     putchar(znak);
